@@ -5,3 +5,4 @@ gunicorn
 django-environ
 redis
 celery
+djangorestframework-simplejwt
